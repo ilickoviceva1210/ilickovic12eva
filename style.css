@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+	color: indigo;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 16px;
+	line-height: 18px;
+	width: 591px;
+	background-color: cornsilk;
+	padding: 20px;
+}
+h1, h2{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: black;
+}
+body{
+	background-image: url("slike/bacckground.jpg");
+}
+a:link{
+	color: black;
+	background-color: cornsilk;
+	padding: 6px;
+	line-height: 40px;
+	border: 1px #00000;
+}
+a:hover{
+	background-color: gray;
+}
+img{
+	height: 300px;
+}
+.prozirna{
+	background-color: lavender;
+	width: 631px;
+}
